@@ -1,0 +1,16 @@
+{
+  "name": "name_counter",
+  "version": "1.0.0",
+  "description": "An application to count the number of times a name appears in a text sample",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Zac Davies",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hashmap": "^2.4.0",
+    "line-reader": "^0.4.0"
+  }
+}
